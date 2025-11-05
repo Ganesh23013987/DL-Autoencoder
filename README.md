@@ -188,7 +188,7 @@ visualize_denoising(model, test_loader)
 
 ## Original vs Noisy Vs Reconstructed Image
 
-<img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/6214e4c7-fc4a-44f2-aed6-1fec593ac178" />
+<img width="950" height="950" alt="image" src="https://github.com/user-attachments/assets/c726cfb9-2ddc-458c-b830-f811266a9733" />
 
 
 ## RESULT
